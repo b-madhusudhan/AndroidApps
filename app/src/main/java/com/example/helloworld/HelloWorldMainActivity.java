@@ -10,4 +10,6 @@ public class HelloWorldMainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_hello_world_main);
     }
+
+    // This the main activity class
 }
